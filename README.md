@@ -2,7 +2,7 @@
 
 ## Visão Geral do Projeto
 
-![Screenshot2](https://github.com/anderson159k/todo-list/assets/71734533/9948421d-1797-4e0b-8f42-34e658abd0a6)
+![Screenshot_2](https://github.com/anderson159k/todo-list/assets/71734533/9948421d-1797-4e0b-8f42-34e658abd0a6)
 
 Este é o projeto de uma Lista de Tarefas implementado utilizando PHP e o framework Laravel. O objetivo do projeto é permitir que os usuários possam gerenciar suas tarefas diárias, incluindo a criação, leitura, atualização e exclusão de tarefas.
 
