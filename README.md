@@ -2,7 +2,7 @@
 
 ## Visão Geral do Projeto
 
-![Projeto de Lista de Tarefas](todo\public\Screenshot_2.png)
+![Projeto de Lista de Tarefas](./Screenshot_2.png)
 
 Este é o projeto de uma Lista de Tarefas implementado utilizando PHP e o framework Laravel. O objetivo do projeto é permitir que os usuários possam gerenciar suas tarefas diárias, incluindo a criação, leitura, atualização e exclusão de tarefas.
 
